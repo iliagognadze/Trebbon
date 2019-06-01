@@ -1,0 +1,133 @@
+html, body{
+	height: 100%;
+	width: 100%;
+}
+
+.roboto{
+	font-family: 'Roboto', sans-serif;
+}
+
+.raleway{
+	font-family: 'Raleway', sans-serif;
+}
+
+.nav-link{
+	padding: .5rem 1rem !important;
+	color: black !important;
+}
+
+.contact-title{
+	color: #007bff;
+	margin: 10px 0px 50px 0px;
+}
+
+.nav-item{
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.link-under{
+	margin: 0;
+	width: 50%;
+	border: solid 0.5px #007bff;
+
+}
+
+input{
+	margin-bottom: 20px !important;
+}
+
+.input-group{
+	width: 50% !important;
+}
+
+.form-group{
+	width: 50% !important;
+}
+
+.section-line{
+	margin: 0;
+	width: 50%;
+	border: solid 0.5px #007bff;
+
+}
+
+label{
+	color: white !important;
+}
+
+.form{
+	padding: 1rem;
+	background-color: #007bff;
+	border-radius: 20px;
+}
+
+.section{
+	margin: 2% 0;
+}
+
+.article-title{
+	color: black !important;
+}
+
+#home h1{
+	padding: 4% 0;
+}
+
+.row img{
+	width: 100%;
+}
+
+.article{
+	align-items: center;
+}
+
+.navbar-toggler{
+	color: black !important;
+}
+
+#fixed{
+	background: url('http://ajanstas.com/wp-content/uploads/2018/11/logo-dizayn.jpg') no-repeat center center fixed;
+	display: table;
+	height: 60%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+	margin-bottom: 50px;
+}
+
+footer{
+	width: 100%;
+	background-color: #007bff;
+	padding: 1% 2%;
+	color: #FFF;
+}
+
+.form-container{
+	margin: 0px 0px 50px 0px;
+}
+
+.fa{
+	padding: 15px;
+	font-size: 25px;
+	color: #fff;
+}
+
+.fa:hover{
+	color: #D5D5D5;
+	text-decoration: none;
+}
+
+.icon{
+	max-width: 200px;
+}
+
+.footer.row{
+ width: 100%;
+}
+
+@media (max-width: 768px) {
+	.link-under{
+		display: none;
+	}
+}
